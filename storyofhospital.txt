@@ -1,0 +1,2 @@
+This is new hospital management system designed 
+for online patients management system.
